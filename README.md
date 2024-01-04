@@ -2,7 +2,7 @@
 ### Hi there 👋
 #### I'm Bryce
 
-🚀 I'm an experienced desktop application developer with extensive experience with JVM technologies like Java and Scala, as well as native languages such as C++ and C.
+🚀 I'm an experienced desktop application developer with a demonstrated ability for transforming conceptual ideas into fully realized features with precision and efficiency, consistently meeting deadlines and exceeding expectations.
 
 - ☕ Proficient in Java and Scala for JVM-based applications 
 - 🧑‍💻 Extensive experience in C++ and C development 
