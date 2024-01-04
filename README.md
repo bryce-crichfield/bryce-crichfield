@@ -1,4 +1,4 @@
-![Header](./header.gif)
+![Header](./header.png)
 ### Hi there 👋
 #### I'm Bryce
 
