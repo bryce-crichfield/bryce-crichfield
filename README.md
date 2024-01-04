@@ -9,3 +9,6 @@
 - 🎨 Specialized knowledge in OpenGL for captivating graphics programming
 - 💻 Expertise in creating high-performance desktop applications 
 - 💡 Let's join forces to build exceptional desktop experiences together!
+
+
+*The essence of technology is by no means technological* - Martin Heidegger
