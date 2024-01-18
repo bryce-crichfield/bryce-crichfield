@@ -4,8 +4,8 @@
 
 🚀 I'm an experienced desktop application developer with a demonstrated ability for transforming conceptual ideas into fully realized features with precision and efficiency, consistently meeting deadlines and exceeding expectations.
 
-- ☕ Proficient in Java and Scala for JVM-based applications 
-- 🧑‍💻 Extensive experience in C++ and C development 
+- ☕ Proficient with JVM technologies such as Java, Scala and Kotlin
+- 🧑‍💻 Extensive experience with embedded and native languages like C++ and C
 - 🎨 Specialized knowledge in OpenGL for captivating graphics programming
 - 💻 Expertise in creating high-performance desktop applications using CUDA and OpenCL
 - 💡 Let's join forces to build exceptional desktop experiences together!
