@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-## Hi there 👋... I'm Bryce
+## Hi there 👋!
 I am a desktop developer with experience in transforming ideas into functional software solutions. I strive to meet deadlines and deliver quality work that meets or exceeds expectations.
 
 ## Technical Competencies:
