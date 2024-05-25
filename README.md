@@ -1,15 +1,13 @@
 ![Header](./header.png)
-### Hi there 👋
-#### I'm Bryce
 
-🚀 I'm an experienced desktop application developer with a demonstrated ability for transforming conceptual ideas into fully realized features with precision and efficiency, consistently meeting deadlines and exceeding expectations.
+## Hi there 👋... I'm Bryce
+I am a desktop developer with experience in transforming ideas into functional software solutions. I strive to meet deadlines and deliver quality work that meets or exceeds expectations.
 
-- ☕ Proficient with JVM technologies such as Java, Scala and Kotlin
-- 🧑‍💻 Extensive experience with embedded and native languages like C++ and C
-- 🎨 Specialized knowledge in OpenGL for captivating graphics programming
-- 💻 Expertise in creating high-performance desktop applications using CUDA and OpenCL
-- 💡 Let's join forces to build exceptional desktop experiences together!
-
-
-
-*"The essence of technology is by no means anything technological"* - Martin Heidegger
+## Technical Competencies:
+- Proficient in JVM technologies like Java, Scala, and Kotlin, with the ability to develop efficient and scalable desktop applications.
+- Experienced in embedded and native languages such as C++ and C for high-performance and resource-efficient software solutions to challenging problems.
+- Knowledgeable in OpenGL for creating visually appealing graphics programming.
+- Skilled in leveraging CUDA and OpenCL to optimize computational capabilities for desktop applications.
+- Adept at automating processes using Python and Bash scripting.
+#
+*I am committed to continuous learning and staying up-to-date with emerging technologies to provide innovative solutions. My attention to detail and collaborative approach enable me to understand project requirements thoroughly and work effectively with teams.*
