@@ -10,4 +10,4 @@ I am a desktop developer with experience in transforming ideas into functional s
 - Skilled in leveraging CUDA and OpenCL to optimize computational capabilities for desktop applications.
 - Adept at automating processes using Python and Bash scripting.
 #
-*I am committed to continuous learning and staying up-to-date with emerging technologies to provide innovative solutions. My attention to detail and collaborative approach enable me to understand project requirements thoroughly and work effectively with teams.*
+*I am committed to continuous learning and staying up-to-date with emerging technologies to provide innovative solutions. My attention to detail and solutions-first approach enable me to understand project requirements thoroughly and develop implementations quickly and effectively.*
